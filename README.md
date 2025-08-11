@@ -8,6 +8,7 @@ This is a simple CRUD (Create, Read, Update, Delete) API for managing items, bui
 *   Authentication required for creating, updating, and deleting items.
 *   Pagination for listing items.
 *   Validation for item data.
+*   Authentication  is token based 
 
 ## Installation
 
